@@ -1,0 +1,47 @@
+.red{
+    color: red;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.green{
+    color: green;
+}
+
+.yellow{
+    color: yellow;
+}
+
+.blue{
+    color: blue;
+}
+
+.xxs{
+    font-size: 10px;
+}
+
+.xs{
+    font-size: 18px;
+}
+
+.s{
+    font-size: 20px;
+}
+
+.m{
+    font-size: 25px;
+}
+
+.l{
+    font-size: 30px;
+}
+
+.xl{
+    font-size: 35px;
+}
+
+.xxl{
+    font-size: 40px;
+}
